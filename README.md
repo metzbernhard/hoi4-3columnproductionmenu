@@ -12,3 +12,6 @@ Needs a resolution with at least 1920 px width.
 Two column version for 1440 width resolutions: https://steamcommunity.com/sharedfiles/filedetails/?id=756002034 
 
 (Changenote #1: fixed Naval Deployment Window, thank you NicaEM for your bugreport!)
+
+![](https://github.com/metzbernhard/stellarisplanetlimit/blob/master/screen2.png)
+![](https://github.com/metzbernhard/stellarisplanetlimit/blob/master/screen1.jpg)
