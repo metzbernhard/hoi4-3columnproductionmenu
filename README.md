@@ -3,7 +3,7 @@ Mod for Paradox Grand Strategy Game Hearts of Iron IV:https://steamcommunity.com
 
 Mod in the Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=756097675
 
-Not much to say, shows two production rows in the production menu (and relocates the window for new productions respectively) so you can see more productions at a time since I find the standard production menu a little lacking in terms of Overview. Also resized the slots for new ships since it was to wide. Same information, just a little more cramed and moved variant and obsolete button. 
+Not much to say, shows three production rows in the production menu (and relocates the window for new productions respectively) so you can see more productions at a time since I find the standard production menu a little lacking in terms of Overview. Also resized the slots for new ships since it was to wide. Same information, just a little more cramed and moved variant and obsolete button. 
 
 Have fun with it, should be Ironman compatible and not interfere with any mods as long as they don't change anything in the military production interface (haven't seen one yet) 
 
