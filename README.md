@@ -13,5 +13,5 @@ Two column version for 1440 width resolutions: https://steamcommunity.com/shared
 
 (Changenote #1: fixed Naval Deployment Window, thank you NicaEM for your bugreport!)
 
-![](https://github.com/metzbernhard/stellarisplanetlimit/blob/master/screen2.png)
-![](https://github.com/metzbernhard/stellarisplanetlimit/blob/master/screen1.jpg)
+![](https://github.com/metzbernhard/hoi4-3columnproductionmenu/blob/master/screen2.png)
+![](https://github.com/metzbernhard/hoi4-3columnproductionmenu/blob/master/screen1.jpg)
