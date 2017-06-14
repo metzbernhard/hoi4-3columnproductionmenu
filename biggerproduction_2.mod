@@ -8,4 +8,4 @@ tags={
 }
 picture="biggerproduction_2.jpg"
 remote_file_id="756097675"
-supported_version="1.3.*"
+supported_version="1.4.*"
